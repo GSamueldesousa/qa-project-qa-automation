@@ -48,7 +48,8 @@ public class LoginApiTest {
         login(TestConfig.getVisitorEmail(), TestConfig.getUserPassword())
                 .then()
                 .statusCode(403)
-                .body("error", containsString("acesso").and(containsString("negado")));
+                .body("error", containsString("acesso"))
+                .body("error", containsString("negado"));
     }
 
     @Test

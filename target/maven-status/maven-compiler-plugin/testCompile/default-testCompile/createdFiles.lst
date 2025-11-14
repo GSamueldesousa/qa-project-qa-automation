@@ -1,2 +1,6 @@
 config\TestConfig.class
+tests\LoginApiTest.class
+pages\LoginPage.class
+pages\DashboardPage.class
 tests\SmokeTest.class
+tests\LoginUITest.class

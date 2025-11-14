@@ -5,7 +5,7 @@ import static org.junit.jupiter.api.Assertions.*;
 
 public class SmokeTest {
     @Test
-    void shouldPass() {
+    void smoke() {
         assertTrue(true);
     }
 }

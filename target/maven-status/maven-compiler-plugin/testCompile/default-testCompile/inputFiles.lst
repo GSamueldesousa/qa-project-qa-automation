@@ -1,2 +1,6 @@
 C:\dev\qa\qa-project\qa-automation\src\test\java\config\TestConfig.java
+C:\dev\qa\qa-project\qa-automation\src\test\java\pages\DashboardPage.java
 C:\dev\qa\qa-project\qa-automation\src\test\java\tests\SmokeTest.java
+C:\dev\qa\qa-project\qa-automation\src\test\java\tests\LoginApiTest.java
+C:\dev\qa\qa-project\qa-automation\src\test\java\pages\LoginPage.java
+C:\dev\qa\qa-project\qa-automation\src\test\java\tests\LoginUITest.java

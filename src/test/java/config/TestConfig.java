@@ -15,10 +15,27 @@ public class TestConfig {
         }
     }
 
-    public static String getBaseUrl() { return props.getProperty("base.url", "http://localhost:8080"); }
-    public static String getUserEmail() { return props.getProperty("user.email", "user@test.com"); }
-    public static String getUserPassword() { return props.getProperty("user.password", "validPass123"); }
-    public static String getVisitorEmail() { return props.getProperty("visitor.email", "visitor@test.com"); }
-    public static String getLockedUserEmail() { return props.getProperty("locked.user.email", "blocked@test.com"); }
-    public static String getInvalidPassword() { return props.getProperty("invalid.password", "wrongPass"); }
+    public static String getBaseUrl() {
+        return props.getProperty("base.url", "http://localhost:8080");
+    }
+
+    public static String getUserEmail() {
+        return props.getProperty("user.email", "user@test.com");
+    }
+
+    public static String getUserPassword() {
+        return props.getProperty("user.password", "validPass123");
+    }
+
+    public static String getVisitorEmail() {
+        return props.getProperty("visitor.email", "visitor@test.com");
+    }
+
+    public static String getLockedUserEmail() {
+        return props.getProperty("locked.user.email", "blocked@test.com");
+    }
+
+    public static String getInvalidPassword() {
+        return props.getProperty("invalid.password", "wrongPass");
+    }
 }

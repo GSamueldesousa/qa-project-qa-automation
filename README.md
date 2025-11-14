@@ -156,16 +156,3 @@ Abra a classe de teste → botão Run Debug.
 
 Samuel Ferreira de Sousa
 Analista de Testes – Automação Web, API e Mobile
-Tecnologias: Java, Selenium, Cypress, Robot, Postman, SQL
-
-
----
-
-Se quiser, eu também posso:
-
-🔥 Criar o pom.xml completo
-🔥 Criar toda estrutura do projeto com código
-🔥 Criar um .gitignore ideal
-🔥 Gerar commits prontos para você subir no GitHub
-
-É só pedir!
